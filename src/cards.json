@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Naruto",
+      "image":
+      "http://narusakuwiki.com/nsw/wp-content/uploads/naruto-1-250x250.png"
+    },
+    {
+      "id": 2,
+      "name": "Sasuke",
+      "image":
+      "http://pm1.narvii.com/6420/a8da1de0453a7b8c097af91a5c58a0683cf5c4fe_00.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sakura",
+      "image":
+      "https://66.media.tumblr.com/5f6f195b8f89b5d0488e9d37d3564498/tumblr_pfq4g3L9b91x9q2v4o2_250.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kakashi",
+      "image":
+      "https://66.media.tumblr.com/19d08cebf021f9c16999d19802064c21/tumblr_p0cjb1rDdC1wd0laso2_250.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shikamaru",
+      "image":
+      "https://pbs.twimg.com/profile_images/1064311332906954754/zGWLjq8a_400x400.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Obito",
+        "image":
+        "https://data.whicdn.com/images/284871887/superthumb.gif?t=1492731591"
+    },
+    {
+      "id": 7,
+      "name": "Nagato",
+      "image":
+      "https://66.media.tumblr.com/af0f146c6d38267d6e5fdff9e1514436/tumblr_owwpn0Xodj1wydck6o3_250.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Yahiko",
+      "image":
+      "https://t00.deviantart.net/De0IPhj4gLl9UmH7M-p9-uXyJl8=/500x250/filters:fixed_height(100,100):origin()/pre00/129a/th/pre/f/2012/258/e/4/yahiko_by_conectt3-d5eqsjo.png"
+    },
+    {
+        "id": 9,
+        "name": "Madara",
+        "image":
+        "https://66.media.tumblr.com/444dfe20802c9b717f1827a5b2840303/tumblr_oko2ybxqcX1vze779o4_250.png"
+    },
+    {
+      "id": 10,
+      "name": "Jiraiya",
+      "image":
+      "http://pm1.narvii.com/6678/822b2b8876a1658681ddd5509d974506124aee65_00.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tsunade",
+      "image":
+      "https://qph.fs.quoracdn.net/main-qimg-287d5069357eabac48d80caaa0fee9b2.webp"
+    },
+    {
+      "id": 12,
+      "name": "Orochimaru",
+      "image":
+      "http://testing.narutopedia.eu/images/thumb/a/ac/Orochimaru1.png/250px-Orochimaru1.png"
+    } 
+  ]
+  
