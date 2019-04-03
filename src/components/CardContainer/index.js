@@ -33,7 +33,6 @@ class CardContainer extends React.Component{
      this.setState({cards: shuffledArray});
 
      if (this.state.clickedArray.includes(id)) {
-       this.setState({ score: 0, clickedArray: [], message: "Game Over, You Clicked that already!"});
        this.gameOver()
      }
      else {
@@ -64,8 +63,6 @@ class CardContainer extends React.Component{
             <Wrapper>
             {this.state.cards.map(single=> (
               <Card
-              // shuffle={this.shuffle}
-              clicked = {false}
               clickHandle={this.handleClick}
               id={single.id}
               shuffle={this.shuffle}
