@@ -3,7 +3,9 @@ import "./style.css"
 
 function Card(props){
     return(
-        <button className="charCard" onClick={() => props.clickHandle()}>
+        <button className="charCard" onClick={() => {
+          props.clickHandle(props.id, props.clicked)          }
+          }>
         <div className="img-container">
           <img
             alt={props.name}

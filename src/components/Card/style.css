@@ -18,4 +18,13 @@
   .card > .img-container > img {
     width: 100%
   }
+
+  .charCard > .img-container :hover{
+    height:275px;
+    width:275px;
+  }
   
+  .charCard:hover{
+    height:275px;
+    width:275px;
+  }
